@@ -8,7 +8,7 @@
     - name: Create lesson12
       docker_container:
         name: lesson12
-        image: mdsn/lesson12app1
+        image: openthisworld/lesson12app1
         pull: true
         state: started
         ports:
