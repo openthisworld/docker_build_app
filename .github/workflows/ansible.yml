@@ -1,4 +1,4 @@
-name: 'Ansible1'
+name: 'Ansible_autostart'
 
 on:
   workflow_run:
