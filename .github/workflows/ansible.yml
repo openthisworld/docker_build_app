@@ -29,7 +29,7 @@ jobs:
           workflow: terraform.yml
           workflow_conclusion: success
           name: terraform
-          repo: openthisworld/ProjectForItea
+          repo: openthisworld/project_itea
 
       - id: host
         env:
